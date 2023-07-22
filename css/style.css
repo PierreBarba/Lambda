@@ -44,6 +44,7 @@ body {
 .main-content {
     padding-left: 270px;
 }
+
 .padd-15 {
     padding-left: 15px;
     padding-right: 15px;
@@ -61,7 +62,6 @@ body {
     margin-right: 15px;
     position: relative;
 }
-
 
 .btn {
     font-size: 16px;
